@@ -2,5 +2,4 @@
 
 ![alt text](https://raw.githubusercontent.com/TheDankMatter/Space-Runner/master/images-readme/animated.gif)
 
-Use "WSAD" to move the ship
-"Space" to shoot
+Use "WSAD" to move the ship, "Space" to shoot
