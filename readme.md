@@ -1,5 +1,5 @@
-# Simple JavaScript game using HTML canvas
+# TX60 HHKB Plate file 
 
-![alt text](https://raw.githubusercontent.com/TheDankMatter/Space-Runner/master/images-readme/animated.gif)
+![alt text](https://i.imgur.com/GwemVNZ.jpg)
 
-Use "WSAD" to move the ship, "Space" to shoot
+Tolerances are not super strict, so theres ever so slight wiggle room before screwing it in properly.
