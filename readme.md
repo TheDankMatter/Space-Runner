@@ -1,9 +1,6 @@
-# TX60 HHKB Plate file 
+# Simple JavaScript game using HTML canvas
 
-![alt text](https://i.imgur.com/GwemVNZ.jpg)
+![alt text](https://raw.githubusercontent.com/TheDankMatter/Space-Runner/master/images-readme/animated.gif)
 
-Tolerances are not super strict, so theres ever so slight wiggle room before screwing it in properly.
-
-Supports HHKB layout only, with optional stepped caps lock.
-
-[More pictures](https://imgur.com/a/3xPuVuJ)
+Use "WSAD" to move the ship
+"Space" to shoot
